@@ -1,0 +1,39 @@
+.container .container-fluid{
+    background-color: grey;
+    color: wheat;
+}
+
+.img_style{
+    width:59px;
+    height:51px;
+}
+
+section#about img{
+    margin-top: 4.5rem;
+    margin-bottom: 5rem;
+}
+section#about h3{
+    margin-top: 3rem;
+}
+section#intro-header{
+    background-image: url(../img/photo-1506744038136-46273834b3fb.jpg);
+    background-size: cover;
+}
+
+section#intro-header .wrap-headline{
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+section#intro-header h1,
+section#intro-header h2{
+    color:yellow;
+}
+
+section#intro-header h2{
+    font-size: 1.5rem;
+}
+section#intro-header hr{
+    width: 100%;
+    border-top: 4px solid #ffffff;
+}
